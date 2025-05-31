@@ -1,0 +1,48 @@
+[[project]]
+name = "Notes"
+desc = "<ul><li>A full stack notes application with user signup, login, and CRUD operations using Node.js, React.js, Express.js, and PostgreSQL.</li><li>Implemented secure authentication using JWT.</li></ul>"
+tags = []
+img = "../../../projects/notes.png"
+links = [
+  { name = "Live Site", url = "https://kamikaze-notes.netlify.app" },
+  { name = "Github", url = "https://github.com/venuDreddy/notes" }
+]
+
+[[project]]
+name = "Restaurant Menu"
+desc = "<ul><li>A menu display website using Strapi headless CMS for easy content management.</li><li>Integrated Strapi's API to retrieve and display menu data dynamically, ensuring scalability and flexibility in content updates.</li><li>Deployed Strapi on DigitalOcean.</li></ul>"
+tags = []
+img = "../../../projects/restaurant.png"
+links = [
+  { name = "Live Site", url = "https://restaurant-items.netlify.app" },
+  { name = "Github", url = "https://github.com/venuDreddy/restaurant" }
+]
+[[project]]
+name = "Colour Code Converter"
+desc = "<ul><li>Users can input color codes in one of three formats: HEX, RGB, or HSL.</li><li>The tool automatically converts the inputted color code into the other two formats.</li><li>The converted color is displayed with the corresponding background color on the page.</li></ul>"
+tags = []
+img = "../../../projects/colour-code-convertor.png"
+links = [
+  { name = "Live Site", url = "https://triple-color-code-converter.netlify.app/" },
+  { name = "Github", url = "https://github.com/venuDreddy/color-code-converter" }
+]
+
+[[project]]
+name = "Quiz"
+desc = "<ul><li>Generates quizzes across multiple categories using an API.</li><li>Allows users to select their preferred quiz category for tailored questions.</li></ul>"
+tags = []
+img = "../../../projects/quiz.png"
+links = [
+  { name = "Live Site", url = "https://quiz-round.netlify.app" },
+  { name = "Github", url = "https://github.com/venuDreddy/Quiz" }
+]
+
+[[project]]
+name = "Anime-Wave"
+desc = "<ul><li>Finds anime based on the search input and displays its details.</li><li>Uses an API to retrieve data.</li></ul>"
+tags = []
+img = "../../../projects/anime.png"
+links = [
+  { name = "Live Site", url = "https://anime-wave.netlify.app/" },
+  { name = "Github", url = "https://github.com/venuDreddy/Anime-Wave" }
+]
