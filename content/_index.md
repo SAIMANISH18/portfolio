@@ -5,6 +5,8 @@ template = 'home.html'
 lang = 'en'
 +++
 
-Hi there 👋, I am Venu Gopal Reddy. I am an undergraduate student pursuing computer science at Gokaraju Rangaraju Institute of Engineering & Technology. I like reading web novels. My favourite novels are The Lord of the Mysteries, Shadow Slave, Perfect Run and The Mother of Learning.
+Hi there 👋, I’m Sai Manish Ayitha.
+I am an undergraduate student pursuing a degree in Computer Science at Gokaraju Rangaraju Institute of Engineering and Technology. I am currently seeking a full-time opportunity as a Software Engineer where I can learn, grow, and contribute to meaningful projects.
+I have built a strong foundation in programming and web development, and I am proficient in Java,Python,HTML, CSS, JavaScript, React.js, Node.js, MongoDB, and SQL through academic projects and continuous self-learning.
 
-I'm currently seeking exciting opportunities to learn, grow, and contribute to meaningful projects.
+

@@ -41,14 +41,14 @@ anchors = "on"
 
 [extra]
 
-name = "Venu Gopal Reddy"                         # Your name
+name = "SAI MANISH AYITHA"                         # Your name
 id = ""                           # Your id / username / handle
 bio = "Full Stack Developer"                          # Your bio
-avatar = "img/avatar.webp"            # Your avatar
+avatar = "img/manish.jpg"            # Your avatar
 links = [                             # Your links
-    { name = "GitHub", icon = "github", url = "https://github.com/venuDreddy" },
-    { name = "LinkedIn", icon = "linkedin", url = "https://www.linkedin.com/in/venu-gopal-reddy-ch" },
-    { name = "Email", icon = "email", url = "mailto:venu009reddy@gmail.com" },
+    { name = "GitHub", icon = "github", url = "https://github.com/SAIMANISH18" },
+    { name = "LinkedIn", icon = "linkedin", url = "http://www.linkedin.com/in/manish-reddy-aitha" },
+    { name = "Email", icon = "email", url = "mailto:manishreddyaitha14@gmail.com" },
 ]
 
 homepage_layout = "about"             # "about" | "list" | "recent"

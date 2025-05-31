@@ -1,48 +1,45 @@
 [[project]]
-name = "Notes"
-desc = "<ul><li>A full stack notes application with user signup, login, and CRUD operations using Node.js, React.js, Express.js, and PostgreSQL.</li><li>Implemented secure authentication using JWT.</li></ul>"
+name = "Full-Stack Food Recipe Management App"
+desc = "<ul><li>Developed a full-stack Food Recipe web app with React.js, Node.js, Express, and
+MongoDB.</li><li>Implemented secure authentication, CRUD operations, and user-specific access
+control.</li><li>Enabled recipe image uploads and implemented a feature to mark recipes as
+favorites for quick access.</li><li>Deployed frontend on Netlify and backend on Render for seamless user
+experience.</li></ul>"
 tags = []
-img = "../../../projects/notes.png"
+img = "../../../projects/food-recipe.png"
 links = [
-  { name = "Live Site", url = "https://kamikaze-notes.netlify.app" },
-  { name = "Github", url = "https://github.com/venuDreddy/notes" }
+  { name = "Live Site", url = "https://manishfoodrecipe.netlify.app/" },
+  { name = "Github", url = "https://github.com/SAIMANISH18/Food_Recipe" }
 ]
 
 [[project]]
 name = "Restaurant Menu"
-desc = "<ul><li>A menu display website using Strapi headless CMS for easy content management.</li><li>Integrated Strapi's API to retrieve and display menu data dynamically, ensuring scalability and flexibility in content updates.</li><li>Deployed Strapi on DigitalOcean.</li></ul>"
+desc = "<ul><li>Dynamic restaurant menu created using React.js.</li><li>Includes dish descriptions, prices, and categories.</li><li>Enables easy browsing of available items.</li></ul>"
 tags = []
-img = "../../../projects/restaurant.png"
+img = "../../../projects/resturent.png"
 links = [
-  { name = "Live Site", url = "https://restaurant-items.netlify.app" },
-  { name = "Github", url = "https://github.com/venuDreddy/restaurant" }
-]
-[[project]]
-name = "Colour Code Converter"
-desc = "<ul><li>Users can input color codes in one of three formats: HEX, RGB, or HSL.</li><li>The tool automatically converts the inputted color code into the other two formats.</li><li>The converted color is displayed with the corresponding background color on the page.</li></ul>"
-tags = []
-img = "../../../projects/colour-code-convertor.png"
-links = [
-  { name = "Live Site", url = "https://triple-color-code-converter.netlify.app/" },
-  { name = "Github", url = "https://github.com/venuDreddy/color-code-converter" }
+  { name = "Live Site", url = "https://manishrestaurent-menu.netlify.app/" },
+  { name = "Github", url = "https://github.com/SAIMANISH18/Manish-Restaurant-Menu" }
 ]
 
 [[project]]
-name = "Quiz"
-desc = "<ul><li>Generates quizzes across multiple categories using an API.</li><li>Allows users to select their preferred quiz category for tailored questions.</li></ul>"
+name = "Weather forecast finder"
+desc = "<ul><li>Provides real-time weather updates by city.</li><li>Displays temperature, humidity, and wind details.</li><li>Powered by a reliable weather API.</li></ul>"
 tags = []
-img = "../../../projects/quiz.png"
+img = "../../../projects/Weather.png"
 links = [
-  { name = "Live Site", url = "https://quiz-round.netlify.app" },
-  { name = "Github", url = "https://github.com/venuDreddy/Quiz" }
+  { name = "Live Site", url = "https://weather-forecastfinder.netlify.app/" },
+  { name = "Github", url = "https://github.com/SAIMANISH18/weather-app" }
 ]
 
 [[project]]
-name = "Anime-Wave"
-desc = "<ul><li>Finds anime based on the search input and displays its details.</li><li>Uses an API to retrieve data.</li></ul>"
+name = "Text Converter Utility"
+desc = "<ul><li> Built with React.js for quick text manipulation.</li><li>Offers case conversion, word count and character count options.</li><li>Designed for efficient, on-the-go text processing.</li></ul>"
 tags = []
-img = "../../../projects/anime.png"
+img = "../../../projects/text-converter.png"
 links = [
-  { name = "Live Site", url = "https://anime-wave.netlify.app/" },
-  { name = "Github", url = "https://github.com/venuDreddy/Anime-Wave" }
+  { name = "Live Site", url = "https://textcoverterusing-reactjs.netlify.app/" },
+  { name = "Github", url = "https://github.com/SAIMANISH18/textCoverter-using-ReactJs" }
 ]
+
+ 
