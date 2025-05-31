@@ -44,7 +44,7 @@ anchors = "on"
 name = "SAI MANISH AYITHA"                         # Your name
 id = ""                           # Your id / username / handle
 bio = "Full Stack Developer"                          # Your bio
-avatar = "img/manish.jpg"            # Your avatar
+avatar = "img/manish1.jpg"            # Your avatar
 links = [                             # Your links
     { name = "GitHub", icon = "github", url = "https://github.com/SAIMANISH18" },
     { name = "LinkedIn", icon = "linkedin", url = "http://www.linkedin.com/in/manish-reddy-aitha" },
