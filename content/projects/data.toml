@@ -1,9 +1,6 @@
 [[project]]
 name = "Full-Stack Food Recipe Management App"
-desc = "<ul><li>Developed a full-stack Food Recipe web app with React.js, Node.js, Express, and
-MongoDB.</li><li>Implemented secure authentication, CRUD operations, and user-specific access
-control.</li><li>Enabled recipe image uploads and implemented a feature to mark recipes as
-favorites for quick access.</li><li>Deployed frontend on Netlify and backend on Render for seamless user experience.</li></ul>"
+desc = "<ul><li>Developed a full-stack Food Recipe web app with React.js, Node.js, Express, and MongoDB.</li><li>Implemented secure authentication, CRUD operations, and user-specific access control.</li><li>Enabled recipe image uploads and implemented a feature to mark recipes as favorites for quick access.</li><li>Deployed frontend on Netlify and backend on Render for seamless user experience.</li></ul>"
 tags = []
 img = "../../../projects/food-recipe.png"
 links = [
